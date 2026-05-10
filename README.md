@@ -17,7 +17,7 @@ TruckNet est une solution B2B SaaS de gestion de flottes conçue pour les transp
 
 ## Démonstration
 
-https://github.com/user-attachments/assets/4.mp4
+https://github.com/user-attachments/assets/demo.mp4
 
 > Démo de la landing page TruckNet — détection d'angles morts, tableau de bord flotte, conformité ESG.
 
@@ -129,20 +129,6 @@ Ouvrir [http://localhost:3000](http://localhost:3000).
 
 ```bash
 pnpm build   # production
-```
-
----
-
-## Ajouter les assets au repo
-
-Placer les fichiers dans `public/assets/` :
-
-```
-public/
-  assets/
-    logo-TruckNet.jpeg
-    banner.jpeg
-    demo.mp4
 ```
 
 ---
