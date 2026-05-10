@@ -17,7 +17,7 @@ TruckNet est une solution B2B SaaS de gestion de flottes conçue pour les transp
 
 ## Démonstration
 
-https://github.com/user-attachments/assets/demo.mp4
+https://github.com/akmeonuzraa/public/assets/demo.mp4
 
 > Démo de la landing page TruckNet — détection d'angles morts, tableau de bord flotte, conformité ESG.
 
